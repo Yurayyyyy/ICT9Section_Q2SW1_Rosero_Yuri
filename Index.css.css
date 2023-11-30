@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="stylesheet" type="text/css" href="CANSEEU.css">
+			<title>Din Tai Fung</title>
+		</head>		
+		<body>
+				
+				<center>
+					
+				<div id="title"><img src="StarbucksLogo.webp" al width="800"></div>
+
+			<div id="xiaolongbao">
+			<table border="1" cellpadding="20" cellspacing="20">
+						
+					<tr>
+							
+						<th>White Mocha </th>
+						<th>Mocha Frapp </th>
+						<th>Triple Chocolate Mocha </th>
+						<th>Ultra Caramel Mocha </th>
+						<th>Caramel Mocha </th>
+					
+					</tr>
+					<tr>
+	
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/xiaopork.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/chicken..jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/fried.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/3cup.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/beef.jpg" al width="200"></td>
+	
+					</tr>
+					<tr>
+							
+						<td>Hand-folded with care, our signature 18-fold dumplings are stuffed with premium Kurobuta pork and a blend of exquisite seasonings.</td>
+						<td>Made by batter-frying chicken and then tossing it in a quick and easy sweet and sour sauce.</td>
+						<td>Made of premium grade rice and big shrimp.</td>
+						<td> Made of one chicken and rice wine, soy sauce, and sesame oil.</td>
+						<td> Beef, onions, and peppers seasoned with oyster sauce and loads of black pepper.</td>
+		
+					</tr>
+					<center><tr>
+
+
+						<td>₱180.25
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱257.50
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱262.65
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱283.25
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱448.05
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						</tr>
+
+
+
+                    <tr>
+							
+						<th>Mushroom Fried Rice</th>
+						<th>Din Tai Fung Hot Sour Soup</th>
+						<th>Crispy Chicken Cutlet with Special Sauce Ultimate Feast</th>
+						<th>Hot Prawn Salad with Mango and Pineapple</th>
+						<th>Salt and Pepper Squid Featured Feast</th>
+		
+					</tr>
+					<tr>
+
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/mush.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/sour.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/cutlet.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/mango.jpg" al width="200"></td>
+						<td><img src="file:///C:/Users/alyss/OneDrive/Documents/salt.jpg" al width="200"></td>
+						
+					</tr>
+					<tr>
+				
+							<td>Incorporates Taiwanese cabbage, shimeji mushroom, wood ear mushroom, and corn.</td>
+							<td>Chock full of fresh ingredients, including sliced bamboo shoots, silky eggs, Kurobuta pork strips, crunchy wood ear mushrooms, and buttery-soft tofu.</td>
+							<td>Crispy Chicken Cutlet with Special Sauce, Choice of Rice or Noodles, a Side, and Xiaolongbao (3 pieces).</td>
+							<td> Hot Prawn Salad with Mango and Pineapple, Choice of Rice or Noodles, a Side, and Xiaolongbao (3 pieces).</td>
+							<td>Salt and Pepper Squid, House Fried Rice, Spicy Pickled Cucumber.</td>
+						
+					</tr>
+					<center>
+					<tr>
+						<td>₱216.30
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱200.85
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱460.00
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱442.90
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+						<td>₱410.00
+						<form action="form-handler.php"><button type="submit">Add to cart</td></form>
+					</tr>
+			<center>
+			</table>
+			</div>
+	</center>
+	</body>
+</html>
